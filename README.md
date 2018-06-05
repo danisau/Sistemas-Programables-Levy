@@ -99,10 +99,7 @@ void changeLight() {
 
 ### Resultados:
 ---------------------------------------------
-![Imagen Conexion pine´s Arduino](evidencia 1.jpg)
-![Imagen](evidencia 2.jpg)
-![Imagen](evidencia 3.jpg)
-
+![Imagen prueba 1](evidencia 1.jpg)
 
 
 ### Conclusión:
