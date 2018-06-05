@@ -1,12 +1,11 @@
 ## Simulación de un Semaforo con LEDS
 *** Objetivo ***
 
-Con esta práctica ilustraremos cómo debe estructurar un programa en Arduino, también veremos cómo son las sentencias básicas usadas con esta IDE, cómo cargar nuestro programa a la placa y para finalizar, realizaremos un ejemplo con el que encenderemos leds con Arduino montando nuestro propio semáforo basado en el funcionamiento del Reino Unido.
-
+Con esta práctica realizaremos un ejemplo con el que encenderemos leds con Arduino montando nuestro propio semáforo basado en el funcionamiento del Reino Unido.
 
 # Diagrama de configuración :
 ---------------------------------------------
-![Imagen Tipos de Brazos](evidencia 4.png )
+![Imagen](evidencia 4.png)
 
 ### Materiales:
 ---------------------------------------------
