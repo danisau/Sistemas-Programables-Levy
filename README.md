@@ -99,8 +99,7 @@ void changeLight() {
 
 ### Resultados:
 ---------------------------------------------
-
-![Imagen](evidencia1.jpg)
+![Imagen](evidencia 1.jpg) 
 ![Imagen](evidencia 2.jpg)
 ![Imagen](evidencia 3.jpg)
 
