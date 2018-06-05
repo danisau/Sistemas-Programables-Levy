@@ -75,7 +75,7 @@ void changeLight() {
   digitalWrite(CAR_RED, HIGH); //yellow on
   delay(2000); //wait 2 seconds
   digitalWrite(PED_RED, LOW); //green off
-  digitalWrite(PED_GREEN, HIGH); //yellow on
+  digitalW![Imagen prueba 1](evidencia 1.jpg)rite(PED_GREEN, HIGH); //yellow on
   delay(crossTime); //wait for
   for (int i = 0; i < 10; i++) {
     digitalWrite(PED_RED, HIGH); //Turn on red pedestrian traffic light
@@ -100,7 +100,8 @@ void changeLight() {
 ### Resultados:
 ---------------------------------------------
 ![Imagen prueba 1](evidencia 1.jpg)
-
+![Imagen prueba 1](evidencia 2.jpg)
+![Imagen prueba 1](evidencia 3.jpg)
 
 ### Conclusión:
 ---------------------------------------------
