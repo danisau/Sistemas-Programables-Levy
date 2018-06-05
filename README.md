@@ -14,6 +14,7 @@ Con esta práctica realizaremos un ejemplo con el que encenderemos leds con Ardu
 - Latiguillos
 - 5 LED´s
 - Resistencias de 220Ω
+- 1 Push button
 
 ### Conexiones:
 ---------------------------------------------
@@ -98,7 +99,8 @@ void changeLight() {
 
 ### Resultados:
 ---------------------------------------------
-![Imagen](evidencia 1.jpg)
+
+![Imagen](evidencia1.jpg)
 ![Imagen](evidencia 2.jpg)
 ![Imagen](evidencia 3.jpg)
 
