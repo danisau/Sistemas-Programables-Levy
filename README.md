@@ -12,7 +12,7 @@ Con esta práctica realizaremos un ejemplo con el que encenderemos leds con Ardu
 - Arduino Nano 
 - Protoboard
 - Latiguillos
-- 4 LED´s
+- 5 LED´s
 - Resistencias de 220Ω
 
 ### Conexiones:
