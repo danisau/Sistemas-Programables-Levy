@@ -5,7 +5,8 @@ Con esta práctica realizaremos un ejemplo con el que encenderemos leds con Ardu
 
 # Diagrama de configuración :
 ---------------------------------------------
-![Imagen Conexion pine´s Arduino](conexion.jpg)
+![Imagen Conexion pine´s Arduino](conexion.jpg) 
+ 
 
 ### Materiales:
 ---------------------------------------------
@@ -99,9 +100,7 @@ void changeLight() {
 
 ### Resultados:
 ---------------------------------------------
-![Imagen prueba 1](evidencia 1.jpg)
-![Imagen prueba 1](evidencia 2.jpg)
-![Imagen prueba 1](evidencia 3.jpg)
+![Imagen Semaforo](evidencia 1.jpg)
 
 ### Conclusión:
 ---------------------------------------------
