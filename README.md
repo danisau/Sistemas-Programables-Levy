@@ -6,7 +6,7 @@ Con esta práctica realizaremos un ejemplo con el que encenderemos leds con Ardu
 # Diagrama de configuración :
 ---------------------------------------------
 ![Imagen Conexion pine´s Arduino](conexion.jpg) 
-![Imagen Semaforo](evidencia 1.jpg)
+
 
 ### Materiales:
 ---------------------------------------------
@@ -97,9 +97,6 @@ void changeLight() {
   //then return to the my program loop
 }
 </pre>
-
-### Resultados:
----------------------------------------------
 
 
 ### Conclusión:
