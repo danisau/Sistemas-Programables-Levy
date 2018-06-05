@@ -4,8 +4,8 @@
 Con esta práctica realizaremos un ejemplo con el que encenderemos leds con Arduino montando nuestro propio semáforo basado en el funcionamiento del Reino Unido.
 
 # Diagrama de configuración :
----------------------------------------------
-![Imagen](evidencia 4.png)
+---------------------.p------------------------
+![Imagen Conexion pine´s Arduino](conexion.jpg)
 
 ### Materiales:
 ---------------------------------------------
@@ -95,6 +95,12 @@ void changeLight() {
   //then return to the my program loop
 }
 </pre>
+
+### Resultados:
+---------------------------------------------
+![Imagen](evidencia 1.jpg)
+![Imagen](evidencia 2.jpg)
+![Imagen](evidencia 3.jpg)
 
 
 
